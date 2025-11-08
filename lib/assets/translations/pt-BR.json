@@ -1,0 +1,132 @@
+{
+  "hero": {
+    "title": "Domine seu dinheiro",
+    "subTitle": "Entenda para onde vai o seu dinheiro, controle seu orçamento e comece a construir o futuro que você merece.",
+    "continue": "Continuar"
+  },
+  "topBar": {
+    "selectDate": "Selecione Mês ou Ano",
+    "searchMonthYear": "Buscar mês/ano..."
+  },
+  "home": {
+    "balance": "Saldo",
+    "balanceYear": "Saldo Anual",
+    "expenses": "Despesas",
+    "hint": "Deslize para a esquerda para editar ou excluir",
+    "noExpenses": "Nenhuma despesa ainda!"
+  },
+  "stats": {
+    "percent": "% da Despesa",
+    "ranking": "Ranking de Despesas",
+    "hint": "Toque em um quadrado para ver detalhes da categoria"
+  },
+  "progressPage": {
+    "performanceTitle": "Desempenho",
+    "noData": "Nehuma despesa ainda!",
+    "moreInfoTitle": "Mais Informações",
+    "meanSavings": "Média de Poupança (%)",
+    "accumulated": "Acumulado"
+  },
+  "actions": {
+    "edit": "Editar",
+    "delete": "Excluir"
+  },
+  "drawer": {
+    "exportData": "Exportar Dados",
+    "importData": "Importar Dados"
+  },
+  "modals": {
+    "balance": {
+      "title": "Editar Saldo",
+      "hint": "Insira o novo saldo",
+      "invalidNumber": "Por favor, insira um número válido",
+      "expenseValueLimit": "O valor não pode ultrapassar 1 trilhão"
+    },
+    "expense": {
+      "titleAdd": "Adicionar Despesa",
+      "titleEdit": "Editar Despesa",
+      "nameHint": "Nome da despesa",
+      "valueHint": "Valor",
+      "fillAll": "Por favor, preencha todos os campos",
+      "expenseValueLimit": "O valor não pode ultrapassar 1 trilhão"
+    },
+    "actions": {
+      "cancel": "Cancelar",
+      "save": "Salvar",
+      "saveChanges": "Salvar Alterações",
+      "add": "Adicionar Despesa"
+    }
+  },
+"categories": {
+    "food": "Comida",
+    "coffee": "Café",
+    "drink": "Bebida",
+    "alcohol": "Álcool",
+    "groceries": "Supermercado",
+    "dining_out": "Restaurante",
+
+    "housing": "Moradia",
+    "light": "Luz",
+    "gas": "Gás",
+    "water": "Água",
+    "phone": "Telefone",
+    "internet": "Internet",
+    "maintenance": "Manutenção",
+    "furniture": "Móveis",
+
+    "transport": "Transporte",
+    "fuel": "Combustível",
+    "public_transport": "Transporte Público",
+    "car_maintenance": "Manutenção do Carro",
+    "parking": "Estacionamento",
+    "business_travel": "Viagem a Trabalho",
+
+    "shopping": "Compras",
+    "clothing": "Roupas",
+    "beauty": "Beleza",
+    "accessories": "Acessórios",
+
+    "health": "Saúde",
+    "medicine": "Medicamentos",
+    "fitness": "Fitness",
+    "mental_health": "Saúde Mental",
+
+    "education": "Educação",
+    "books": "Livros",
+    "courses": "Cursos",
+    "art_supplies": "Materiais de Arte",
+
+    "travel": "Viagem",
+    "accommodation": "Hospedagem",
+    "tours": "Passeios",
+    "vacation": "Férias",
+
+    "entertainment": "Entretenimento",
+    "music": "Música",
+    "games": "Jogos",
+    "streaming": "Streaming",
+    "events": "Eventos",
+
+    "pets": "Animais de Estimação",
+
+    "savings": "Poupança",
+    "investments": "Investimentos",
+    "debt_payment": "Pagamento de Dívidas",
+
+    "gifts": "Presentes",
+    "donations": "Doações",
+    "religious": "Religioso",
+
+    "childcare": "Cuidados Infantis",
+    "toys": "Brinquedos",
+    "kids_education": "Educação Infantil",
+
+    "work": "Trabalho",
+    "office_supplies": "Materiais de Escritório",
+    "taxes": "Impostos",
+
+    "services": "Serviços",
+    "insurance": "Seguro",
+    "other": "Outros"
+}
+}

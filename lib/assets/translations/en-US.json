@@ -1,0 +1,132 @@
+{
+  "hero": {
+    "title": "Master Your Money",
+    "subTitle": "Understand where your money goes, take control of your budget, and start building the future you deserve.",
+    "continue": "Continue"
+  },
+  "topBar": {
+    "selectDate": "Select Month or Year",
+    "searchMonthYear": "Search month/year..."
+  },
+  "home": {
+    "balance": "Balance",
+    "balanceYear": "Year Balance",
+    "expenses": "Expenses",
+    "hint": "Swipe left to edit or delete",
+    "noExpenses": "No expenses yet!"
+  },
+  "stats": {
+    "percent": "% of Expense",
+    "ranking": "Expense Ranking",
+    "hint": "Tap a square to see category details"
+  },
+  "progressPage": {
+    "performanceTitle": "Performance",
+    "noData": "No expenses yet!",
+    "moreInfoTitle": "More Info",
+    "meanSavings": "Mean Savings (%)",
+    "accumulated": "Accumulated"
+  },
+  "actions": {
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "drawer": {
+    "exportData": "Export Data",
+    "importData": "Import Data"
+  },
+  "modals": {
+    "balance": {
+      "title": "Edit Balance",
+      "hint": "Enter new balance",
+      "invalidNumber": "Please enter a valid number",
+      "expenseValueLimit": "Value cannot exceed 1 trillion"
+    },
+    "expense": {
+      "titleAdd": "Add Expense",
+      "titleEdit": "Edit Expense",
+      "nameHint": "Expense name",
+      "valueHint": "Value",
+      "fillAll": "Please fill all fields",
+      "expenseValueLimit": "Value cannot exceed 1 trillion"
+    },
+    "actions": {
+      "cancel": "Cancel",
+      "save": "Save",
+      "saveChanges": "Save Changes",
+      "add": "Add Expense"
+    }
+  },
+"categories": {
+    "food": "Food",
+    "coffee": "Coffee",
+    "drink": "Drink",
+    "alcohol": "Alcohol",
+    "groceries": "Groceries",
+    "dining_out": "Dining Out",
+
+    "housing": "Housing",
+    "light": "Light",
+    "gas": "Gas",
+    "water": "Water",
+    "phone": "Phone",
+    "internet": "Internet",
+    "maintenance": "Maintenance",
+    "furniture": "Furniture",
+
+    "transport": "Transport",
+    "fuel": "Fuel",
+    "public_transport": "Public Transport",
+    "car_maintenance": "Car Maintenance",
+    "parking": "Parking",
+    "business_travel": "Business Travel",
+
+    "shopping": "Shopping",
+    "clothing": "Clothing",
+    "beauty": "Beauty",
+    "accessories": "Accessories",
+
+    "health": "Health",
+    "medicine": "Medicine",
+    "fitness": "Fitness",
+    "mental_health": "Mental Health",
+
+    "education": "Education",
+    "books": "Books",
+    "courses": "Courses",
+    "art_supplies": "Art Supplies",
+
+    "travel": "Travel",
+    "accommodation": "Accommodation",
+    "tours": "Tours",
+    "vacation": "Vacation",
+
+    "entertainment": "Entertainment",
+    "music": "Music",
+    "games": "Games",
+    "streaming": "Streaming",
+    "events": "Events",
+
+    "pets": "Pets",
+
+    "savings": "Savings",
+    "investments": "Investments",
+    "debt_payment": "Debt Payment",
+
+    "gifts": "Gifts",
+    "donations": "Donations",
+    "religious": "Religious",
+
+    "childcare": "Childcare",
+    "toys": "Toys",
+    "kids_education": "Kids Education",
+
+    "work": "Work",
+    "office_supplies": "Office Supplies",
+    "taxes": "Taxes",
+
+    "services": "Services",
+    "insurance": "Insurance",
+    "other": "Others"
+}
+}
