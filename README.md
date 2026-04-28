@@ -40,7 +40,7 @@ Track your daily expenses, visualize spending trends, and take full control of y
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/AppRonin/cashio.git
+git clone https://github.com/vfb-dev/cashio.git
 cd cashio
 
 # 2️⃣ Get Flutter dependencies
@@ -49,3 +49,7 @@ flutter pub get
 # 3️⃣ Run the app
 flutter run
 ```
+
+## Author
+
+**vfb-dev** — Crafting awesome mobile apps
